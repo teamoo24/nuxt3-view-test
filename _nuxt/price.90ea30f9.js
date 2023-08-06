@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.c27b6911.js";import{o as c,c as o,b as t}from"./entry.5cb1fc9b.js";const r={},s=t("h1",null,"Price Page",-1),n=[s];function _(a,i){return c(),o("div",null,n)}const f=e(r,[["render",_]]);export{f as default};

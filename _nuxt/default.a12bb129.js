@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper.c27b6911.js";import{o,c as s,r,b as _}from"./entry.5cb1fc9b.js";const n={},a={class:"container"},c=_("footer",null,"© proglus.jp",-1);function l(e,d){return o(),s("div",a,[r(e.$slots,"default"),c])}const i=t(n,[["render",l]]);export{i as default};

@@ -1,0 +1,1 @@
+import{u as t,a as r,o,c as a,b as s,t as n,d as c}from"./entry.5cb1fc9b.js";const _={key:0},u=s("h1",null,"Error!",-1),l={__name:"error",setup(m){const e=t();return(d,i)=>r(e).statusCode===404?(o(),a("div",_,[u,s("p",null,n(r(e).message),1)])):c("",!0)}},f=l;export{f as default};
