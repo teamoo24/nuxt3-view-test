@@ -1,4 +1,7 @@
-// https://nuxt.com/docs/api/configuration/nuxt-config
-export default defineNuxtConfig({
-  devtools: { enabled: true }
-})
+export default {
+  target: 'static',
+  generate: {subFolders: true},
+  router: {
+    base: '/nuxt3-view-test/'
+  }
+}
